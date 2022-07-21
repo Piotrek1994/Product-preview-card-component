@@ -98,6 +98,13 @@ h1 {
     background-color: hsl(158, 36%, 37%);
     border-radius: 0.5rem;
     border: none;
+    cursor: pointer;
+    transition: background-color .5s;
+
+}
+
+.card-btn:hover {
+    background-color: hsl(159, 57%, 15%);    
 }
 
 .card-btn_icon {
@@ -107,7 +114,7 @@ h1 {
     background-image: url(./images/icon-cart.svg);
     background-repeat: no-repeat;
     background-size: cover;
-
+    
 }
 
 .card-btn_text {
