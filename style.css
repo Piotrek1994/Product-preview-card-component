@@ -148,8 +148,7 @@ h1 {
         font-size: 1.8rem;
     }
 
-    .card-pirce-container {
-        width: 80%;
-
+    .card-new-price {
+        font-size: 1.5rem;
     }
 }
