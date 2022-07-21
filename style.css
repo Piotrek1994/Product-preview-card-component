@@ -19,7 +19,7 @@ body {
 	width: 38rem;
 	height: 28rem;
 	background-color: hsl(0, 0%, 100%);
-	border-radius: 0.7rem;
+	border-radius: 0.6rem;
 	transform: translate(-50%, -50%);
 	display: flex;
 	overflow: hidden;
