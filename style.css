@@ -120,7 +120,7 @@ h1 {
 
 @media (max-width: 375px) {
 	.card {
-		width: 22rem;
+		width: 90%;
 		height: 43rem;
 		flex-direction: column;
 	}
@@ -136,7 +136,7 @@ h1 {
 	}
 }
 
-@media (min-width: 375px) and (max-width: 620px){
+@media (min-width: 376px) and (max-width: 620px){
     .card {
         width: 90%;
         height: 50%;
