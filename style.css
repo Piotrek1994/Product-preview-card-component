@@ -140,6 +140,16 @@ h1 {
     .card {
         width: 90%;
         height: 50%;
+    }
+    .right-card {
         padding: 1rem;
+    }
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .card-pirce-container {
+        width: 80%;
+
     }
 }
